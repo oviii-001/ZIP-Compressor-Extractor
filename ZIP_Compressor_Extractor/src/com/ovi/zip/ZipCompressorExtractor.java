@@ -11,8 +11,8 @@ import java.util.zip.*;
 public class ZipCompressorExtractor extends JFrame {
 
 
-	private static final long serialVersionUID = 1L;
-	private JLabel titleLabel;
+    private static final long serialVersionUID = 1L;
+    private JLabel titleLabel;
     private JButton compressButton;
     private JButton extractButton;
 
